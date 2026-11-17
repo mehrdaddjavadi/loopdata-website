@@ -4,3 +4,7 @@ out
 .env*
 .DS_Store
 *.log
+.npm-cache
+.nvmrc
+.git
+/node_modules
